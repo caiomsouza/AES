@@ -10,4 +10,6 @@ The reinstantiated key is used to initialize a AES cipher for encryption and dec
 java -jar AES.jar your_string
 ```
 
-[test][https://github.com/caiomsouza/AES/blob/master/test.PNG]
+![AES](https://github.com/caiomsouza/AES/blob/master/test.PNG)
+Format: ![AES](url)
+
