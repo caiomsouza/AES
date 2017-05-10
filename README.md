@@ -11,5 +11,4 @@ java -jar AES.jar your_string
 ```
 
 ![AES](https://github.com/caiomsouza/AES/blob/master/test.PNG)
-Format: ![AES](url)
 
