@@ -12,3 +12,5 @@ java -jar AES.jar your_string
 
 ![AES](https://github.com/caiomsouza/AES/blob/master/test.PNG)
 
+# Reference
+https://www.andrew.cmu.edu/course/95-702/examples/security/AES.java
