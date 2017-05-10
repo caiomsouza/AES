@@ -7,5 +7,5 @@ The reinstantiated key is used to initialize a AES cipher for encryption and dec
 
 # Test it
 ```
-java -jar AES.jar password
+java -jar AES.jar your_string
 ```
